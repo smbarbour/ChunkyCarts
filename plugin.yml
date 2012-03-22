@@ -1,0 +1,6 @@
+name: ChunkyCarts
+main: cah.melonar.ChunkyCarts
+version: 1.0
+description: >
+             Carts on the move will load chunks and prevent the unloading of chunks they are in.
+commands:
